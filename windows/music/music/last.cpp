@@ -5,7 +5,6 @@
 using namespace std;
 
 int main(){
-//	system("wscript last.vbs");
 	WORD wVersionRequested;
 	WSADATA wsaData;
 	int err,i;
